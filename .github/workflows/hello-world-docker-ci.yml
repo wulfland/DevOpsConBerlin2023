@@ -14,7 +14,8 @@ jobs:
 
       - name: Run my own container action
         id: hello-action
-        uses: ./hello-world-docker-action
+        #uses: ./hello-world-docker-action
+        uses: wulfland/DevOpsConAction@v1.0
         with:
           who-to-greet: '@DevOpsCon2023'
 
