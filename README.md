@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals - DevOpsCon Berlin 2023
+# GitHub Actions Fundamentals - DevOpsCon Berlin 2023!!!
 
 Repo for the `GitHub Actions Fundamentals` training.
 
