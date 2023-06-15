@@ -22,6 +22,7 @@ jobs:
       - run: echo "🚀 Job was triggered by ${{github.event_name}}"
       - run: echo "🔎 The name of the branch is ${{github.ref}}"
       - run: echo "ᢀ Var ${{vars.MY_VAR}}"
+      - run: echo "::debug::Writing a debug message..."
       
   Test:
     runs-on: ubuntu-latest
