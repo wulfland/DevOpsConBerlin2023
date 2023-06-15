@@ -1,4 +1,8 @@
-name: 'Hello World Docker Action'
+name: 'Hello World DevOpsCon 2023 Action'
+branding:
+  icon: 'alert-triangle'
+  color: 'orange'
+
 description: 'Say hello to a user or the world.'
 inputs:
   who-to-greet:
